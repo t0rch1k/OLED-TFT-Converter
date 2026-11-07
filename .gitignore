@@ -1,0 +1,30 @@
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+ENV/
+
+# Distribution and packaging
+build/
+dist/
+*.spec
+*.egg-info/
+
+# Multimedia & Binary outputs
+ffmpeg.exe
+*.wav
+*.vid
+*.rgb565
+*.h
+
+# IDE and OS files
+.idea/
+.vscode/
+*.suo
+*.user
+Thumbs.db
+Desktop.ini
+.DS_Store
